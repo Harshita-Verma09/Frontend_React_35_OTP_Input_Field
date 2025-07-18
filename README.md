@@ -4,6 +4,7 @@ This is a simple and customizable OTP (One-Time Password) input component built 
 
 ## Features
 
+
 - **Customizable Length:** You can easily specify the number of OTP digits the input should accept using the `length` prop. It defaults to 6.
 - **Digit Input Only:** The component restricts input to only numeric characters.
 - **Automatic Focus:** When a digit is entered in an input field, the focus automatically shifts to the next empty field.
